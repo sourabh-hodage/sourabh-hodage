@@ -26,7 +26,8 @@ Hi, I’m Sourabh Hodage 👋🏼 👨🏽‍🎓 👨🏽‍💻
 ```
 
 #### Internship
-##### Jr.Business Analyst, Pune (Jan 2022- June 2022)
+##### Jr.Business Analyst,
+##### Technorithm Engineering Pvt Ltd ,Pune (Jan 2022- June 2022)
 ```
 - Applied various tools to address and resolve complex business challenges, showcasing a strong problem-solving acumen.
 - Proficiently utilized Microsoft Office suite, particularly Excel, to design operational processes.
