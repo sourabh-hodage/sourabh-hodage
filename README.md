@@ -15,14 +15,7 @@ Hi, I’m Sourabh Hodage 👋🏼 👨🏽‍🎓 👨🏽‍💻
     11.Tableau 
 
 ### 💼 Experience 
-#### Jr.Data Analyst
-##### Appstix Technologies, Bangalore (July 2022- Present )
-```
-- Developed solutions to tackle business challenges by using data from both internal and external sources.
-- Applied advanced analytical methodologies to assess factors influencing growth, time utilization, and 
-  profitability across different product and service portfolios.
-- Efficiently managed large datasets to derive optimized solutions, contributing to enhanced 
-  decision-making processes within the organization.
+
 ```
 
 #### Internship
